@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "71225842036",
+    "project_id": "socialapp-22c19",
+    "storage_bucket": "socialapp-22c19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71225842036:android:1038aa66cbf4fb2b7cb421",
+        "android_client_info": {
+          "package_name": "com.example.FlutterApplications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71225842036-cbqm5jnh4l8vknjbobda5mrv3dnq1ln1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.FlutterApplications",
+            "certificate_hash": "8b24c076de80bfde0a14a33277ce0afbd2877a3c"
+          }
+        },
+        {
+          "client_id": "71225842036-6ihh6da2btacd3na6q9t6rqof1st1vug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5G82RRKmQMsWlxxO4pPRl8Ky9TjLRd_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71225842036-6ihh6da2btacd3na6q9t6rqof1st1vug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

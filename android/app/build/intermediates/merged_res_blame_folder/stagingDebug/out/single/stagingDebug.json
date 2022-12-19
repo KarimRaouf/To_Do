@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\build\\intermediates\\merged_res\\stagingDebug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\build\\intermediates\\merged_res\\stagingDebug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\build\\intermediates\\merged_res\\stagingDebug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\build\\intermediates\\merged_res\\stagingDebug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\build\\intermediates\\merged_res\\stagingDebug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\build\\intermediates\\merged_res\\stagingDebug\\drawable-v21_launch_background.xml.flat",
+        "source": "D:\\The best developer in all over the world\\FlutterApplications\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    }
+]
