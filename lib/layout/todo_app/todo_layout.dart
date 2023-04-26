@@ -112,12 +112,12 @@ class HomeLayout extends StatelessWidget {
                                 defaultFormField(
                                   controller: dateController,
                                   type: TextInputType.datetime,
-                                  onTap: () {
-                                    showDatePicker(
+                                  onTap: () async {
+                                    await showDatePicker(
                                       context: context,
                                       initialDate: DateTime.now(),
                                       firstDate: DateTime.now(),
-                                      lastDate: DateTime.parse('2022-10-01'),
+                                      lastDate: DateTime.parse('2023-10-01'),
                                     ).then((value) {
                                       dateController.text =
                                           DateFormat.yMMMd().format(value!);

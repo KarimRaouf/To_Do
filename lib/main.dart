@@ -15,6 +15,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
+import 'layout/todo_app/todo_layout.dart';
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
@@ -84,7 +86,7 @@ class MyApp extends StatelessWidget {
             themeMode: cubit.isDark ? ThemeMode.dark : ThemeMode.light,
             home: Directionality(
               textDirection: TextDirection.ltr,
-              child: startWidget!,
+              child: HomeLayout(),
             ),
           );
         },
